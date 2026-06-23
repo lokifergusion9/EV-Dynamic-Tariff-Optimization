@@ -1,4 +1,4 @@
-# OP'26 — Agentic AI-Based Dynamic Tariff Optimization for EV Charging Networks
+# Agentic AI-Based Dynamic Tariff Optimization for EV Charging Networks
 
 A self-improving pricing engine for EV charging networks. It forecasts demand,
 recommends dynamic per-kWh tariffs, and learns from simulated outcomes to maximize
