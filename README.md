@@ -4,7 +4,7 @@ A self-improving pricing engine for EV charging networks. It forecasts demand,
 recommends dynamic per-kWh tariffs, and learns from simulated outcomes to maximize
 revenue while relieving peak congestion and lifting off-peak usage.
 
-Built for **Open Project 2026 (Society of Business)**.
+
 
 ---
 
