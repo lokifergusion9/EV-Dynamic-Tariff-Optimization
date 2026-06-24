@@ -1,0 +1,8 @@
+metric,default_policy,learned_policy
+revenue_gain_pct,7.776,8.19
+util_baseline,0.148,0.148
+util_dynamic,0.155,0.155
+wait_reduction_pct,21.451,22.317
+offpeak_uplift_sessions,1705.593,1701.65
+pricing_efficiency,15.045,15.099
+customer_response_rate,1.274,1.264

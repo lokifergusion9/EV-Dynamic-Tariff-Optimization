@@ -1,0 +1,14 @@
+OP'26 - Agentic Tariff Optimization: Results Summary
+=======================================================
+
+Demand Prediction Agent:
+  Charging-load   RMSE=0.946  MAE=0.611  R2=0.899
+  Utilization     RMSE=0.088  MAE=0.048  R2=0.797
+  Congestion      ACC=0.975  ROC-AUC=0.955
+
+Tariff + Monitoring/Learning Agent (best learned policy vs INR 15/kWh):
+  Revenue Gain %        : +8.19%
+  Avg wait reduction    : +22.32%
+  Off-peak uplift       : +1701.6 sessions
+  Pricing efficiency    : INR 15.10 / kWh
+  Customer response rate: 1.264 (demand factor)

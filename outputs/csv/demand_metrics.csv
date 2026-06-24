@@ -1,0 +1,9 @@
+agent,metric,value
+DemandPrediction,load_RMSE,0.9462
+DemandPrediction,load_MAE,0.6107
+DemandPrediction,load_R2,0.8992
+DemandPrediction,util_RMSE,0.0876
+DemandPrediction,util_MAE,0.0478
+DemandPrediction,util_R2,0.7971
+DemandPrediction,congestion_accuracy,0.9752
+DemandPrediction,congestion_ROC_AUC,0.9551
